@@ -1,0 +1,2 @@
+# 260928-SEM-MS-COPCHAT-PRM-LD-BC-Pirv
+Laboratorios del curso 260928-SEM-MS-COPCHAT-PRM-LD-BC-Pirv
