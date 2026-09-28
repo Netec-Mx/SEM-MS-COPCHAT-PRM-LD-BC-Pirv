@@ -23,9 +23,7 @@ Formación intensiva de repaso, con progresión de nivel básico a intermedio, p
 - [Práctica guiada 1. Analizar el portafolio, identificar tendencias y riesgos, y generar conclusiones que se reutilizarán en Word](Capitulo02/README.md#práctica-guiada-1-analizar-el-portafolio-identificar-tendencias-y-riesgos-y-generar-conclusiones-que-se-reutilizarán-en-word)
   - Descripción: Analizar el portafolio del caso en Excel con Copilot, identificar tendencias y riesgos, y generar conclusiones que se reutilizarán en Word.
   - Duración estimada: 25 min
-- [Práctica guiada 1. Analizar el portafolio, identificar tendencias y riesgos, y generar conclusiones que se reutilizarán en Word](Capitulo02/README.md#práctica-guiada-1-analizar-el-portafolio-identificar-tendencias-y-riesgos-y-generar-conclusiones-que-se-reutilizarán-en-word)
-  - Descripción: Analizar el portafolio del caso en Excel con Copilot, identificar tendencias y riesgos, y generar conclusiones que se reutilizarán en Word.
-  - Duración estimada: 25 min
+
   - [Ver capítulo completo](Capitulo02/README.md)
 
 ### Capítulo 3
@@ -33,9 +31,7 @@ Formación intensiva de repaso, con progresión de nivel básico a intermedio, p
 - [Práctica guiada 2. Crear y refinar un memo de inversión utilizando los hallazgos del análisis realizado en Excel](Capitulo03/README.md#práctica-guiada-2-crear-y-refinar-un-memo-de-inversión-utilizando-los-hallazgos-del-análisis-realizado-en-excel)
   - Descripción: Crear y refinar un memo de inversión en Word utilizando los hallazgos del análisis realizado en Excel, agregando estructura, contexto y nivel ejecutivo.
   - Duración estimada: 20 min
-- [Práctica guiada 2. Crear y refinar un memo de inversión utilizando los hallazgos del análisis realizado en Excel](Capitulo03/README.md#práctica-guiada-2-crear-y-refinar-un-memo-de-inversión-utilizando-los-hallazgos-del-análisis-realizado-en-excel)
-  - Descripción: Crear y refinar un memo de inversión en Word utilizando los hallazgos del análisis realizado en Excel, agregando estructura, contexto y nivel ejecutivo.
-  - Duración estimada: 20 min
+
   - [Ver capítulo completo](Capitulo03/README.md)
 
 ### Capítulo 4
