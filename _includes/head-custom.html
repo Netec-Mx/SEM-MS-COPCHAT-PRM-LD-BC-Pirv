@@ -1,0 +1,65 @@
+<style>
+  .markdown-body blockquote.aviso {
+    border-left: 4px solid var(--aviso-color);
+    padding: 8px 16px;
+    margin: 16px 0;
+    color: inherit;
+  }
+
+  .markdown-body .aviso-titulo {
+    color: var(--aviso-color);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .markdown-body blockquote.aviso > :last-child {
+    margin-bottom: 0;
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tipos = {
+    NOTE:      { titulo: "Nota",       color: "#0969da" },
+    TIP:       { titulo: "Consejo",    color: "#1a7f37" },
+    IMPORTANT: { titulo: "Importante", color: "#8250df" },
+    WARNING:   { titulo: "Advertencia",color: "#9a6700" },
+    CAUTION:   { titulo: "Precaución", color: "#d1242f" }
+  };
+
+  document.querySelectorAll(".markdown-body blockquote").forEach(function (bloque) {
+    const parrafo = bloque.firstElementChild;
+    if (!parrafo || parrafo.tagName !== "P") return;
+
+    const nodo = parrafo.firstChild;
+    if (!nodo || nodo.nodeType !== Node.TEXT_NODE) return;
+
+    const coincidencia = nodo.textContent.match(
+      /^\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\][ \t]*(?:\r?\n)?/
+    );
+    if (!coincidencia) return;
+
+    const tipo = tipos[coincidencia[1]];
+    nodo.textContent = nodo.textContent.slice(coincidencia[0].length);
+
+    if (!nodo.textContent.trim()) {
+      nodo.remove();
+      if (parrafo.firstChild?.nodeName === "BR") {
+        parrafo.firstChild.remove();
+      }
+    }
+
+    bloque.classList.add("aviso");
+    bloque.style.setProperty("--aviso-color", tipo.color);
+
+    const titulo = document.createElement("p");
+    titulo.className = "aviso-titulo";
+    titulo.textContent = tipo.titulo;
+    bloque.prepend(titulo);
+
+    if (!parrafo.textContent.trim() && !parrafo.children.length) {
+      parrafo.remove();
+    }
+  });
+});
+</script>
