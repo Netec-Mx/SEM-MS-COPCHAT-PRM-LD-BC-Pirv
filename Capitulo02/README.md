@@ -36,7 +36,7 @@ Analizarás un portafolio de seguimiento mensual con Copilot en Excel. El objeti
 ### Acceso requerido
 
 - Microsoft 365 Copilot disponible en Excel.
-- Copia de trabajo del archivo [`../recursos/Portfolio_Analisis.xlsx`](Recursos/Portfolio_Analisis.xlsx) guardada en OneDrive o SharePoint como `Portfolio_Analisis_[Iniciales].xlsx`.
+- Copia de trabajo del archivo [`../Recursos/Portfolio_Analisis.xlsx`](Recursos/Portfolio_Analisis.xlsx) guardada en OneDrive o SharePoint como `Portfolio_Analisis_[Iniciales].xlsx`.
 
 ## Entorno de Laboratorio
 
