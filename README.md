@@ -8,7 +8,6 @@
 
 Te damos la bienvenida a la plataforma de laboratorios del curso Microsoft 365 Copilot con licencia: Productividad en Office, prompting y agentes. Aquí aplicarás Copilot en Excel, Word, PowerPoint y Outlook, y consultarás el agente Analista mediante un caso de inversión que conecta el análisis de datos con documentos, presentaciones y comunicaciones ejecutivas.
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md).
 
 ## Lista de laboratorios
 
