@@ -17,7 +17,7 @@
 Utilizarás Copilot en Outlook para resumir una conversación de correo, comprobar el resumen contra los mensajes originales y redactar un seguimiento ejecutivo. El resultado permanecerá en **Borradores**.
 
 > [!IMPORTANT]
-> La función de resumen trabaja sobre conversaciones de correo. Por eso los cuatro mensajes `.eml` deben importarse al buzón **antes** de iniciar los 20 minutos de práctica. Utiliza [`Hilo_Comite_Inversion.docx`](../recursos/Hilo_Comite_Inversion.docx) como versión de consulta y sigue el [Setup Guide](../SETUP_GUIDE.md) para importar los correos.
+> La función de resumen trabaja sobre conversaciones de correo. Por eso los cuatro mensajes `.eml` deben importarse al buzón **antes** de iniciar los 20 minutos de práctica. Utiliza [Hilo_Comite_Inversion.docx](../Recursos/Hilo_Comite_Inversion.docx) como versión de consulta y sigue el Setup Guide para importar los correos.
 
 ## Objetivos de Aprendizaje
 
