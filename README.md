@@ -48,6 +48,15 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - Descripción: Consulta el agente Analista sobre el mismo libro del caso y refina la solicitud para ampliar el análisis. Comprueba sus hallazgos con Excel e incorpora únicamente los resultados validados al memo o al borrador de correo.
 - ⏱️ Duración estimada: 25 min.
 
+
+## 🗂️ Recursos: correos_comite
+
+#### [Correo_01_Comite_Inversion.eml](Recursos/correos_comite/Correo_01_Comite_Inversion.eml)
+#### [Correo_02_Comite_Inversion.eml](Recursos/correos_comite/Correo_02_Comite_Inversion.eml)
+#### [Correo_03_Comite_Inversion.eml](Recursos/correos_comite/Correo_03_Comite_Inversion.eml)
+#### [Correo_04_Comite_Inversion.eml](Recursos/correos_comite/Correo_04_Comite_Inversion.eml)
+
+
 ---
 
 ## 📬 Contacto y más información
