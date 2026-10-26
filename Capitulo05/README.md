@@ -51,7 +51,7 @@ Microsoft documenta que Copilot en Outlook puede resumir un hilo y generar un bo
 **Objetivo:** asegurar que Copilot y el participante revisan el hilo correcto.
 
 1. Abre Outlook.
-2. Localiza el hilo **Comité de inversión | Revisión del portafolio y próximos pasos**.
+2. Localiza el hilo **Comité de inversión - Revisión del portafolio y próximos pasos**.
 3. Confirma que ves todos los mensajes de la conversación.
 4. No abras otros hilos durante el análisis.
 
